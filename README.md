@@ -1,12 +1,12 @@
 # GE23231-PROGRAMING-USING-PYTHON
-<h2>Laboratory Observation</h2>
+<h2>Laboratory Record</h2>
 <ul>
-  <li>Name: ADRIEL THOMAS</li>
-  <li>Roll No: 230601003</li>
-  <li>Year: I</li>
-  <li>Semester: II</li>
-  <li>Branch: B.E CIVIL ENGINEERING</li>
-  <li>Academic Year: 2023-2024</li>
+  <li><b>Name</b>: ADRIEL THOMAS</li>
+  <li><b>Roll No</b>: 230601003</li>
+  <li><b>Year: I</b></li>
+  <li><b>Semester</b>: II</li>
+  <li><b>Branch</b>: B.E CIVIL ENGINEERING</li>
+  <li><b>Academic Year</b>: 2023-2024</li>
 </ul>
 
 
